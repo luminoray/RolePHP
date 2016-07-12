@@ -1,4 +1,4 @@
-<?php namespace LuminoRay\RolePHP
+<?php namespace LuminoRay\RolePHP;
 
 class RolePHP {
 	public function __construct() {
