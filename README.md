@@ -129,7 +129,7 @@ $player_stats = new LuminoRay\RolePHP\Character\Status($player_array);
 $enemy_array = new LuminoRay\RolePHP\Character\Status($enemy_array);
 ```
 
-With the **Status** objects instantiated, we can now proceed to created our **MY_Character** instances:
+With the **Status** objects instantiated, we can now proceed to create our **MY_Character** instances:
 
 ```php
 $player = new MY_Character($player_stats);
