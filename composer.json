@@ -1,0 +1,21 @@
+{
+    "name": "luminoray/RolePHP",
+    "description": "A simple RPG framework for PHP.",
+    "license": "MIT",
+    "keywords": ["rolephp"],
+    "authors": [
+        {
+            "name": "Gerardo Vargas",
+            "email": "gerardo.vargas89@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "LuminoRay\\RolePHP\\": "src"
+        }
+    }
+}
